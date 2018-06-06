@@ -1,0 +1,38 @@
+Folders and Files Included
+
+CMUCropData (1 File)
+- CMUCropData.txt
+
+CustomDatabaseCreater (1 File)
+- CreateCmpuSnake.m
+
+DisplayFunction (1 File)
+- getCor.m
+
+SnakeFunctions (13 Files)
+- DrawSegmentedArea2D.m
+- ExternalForceImage2D.m
+- GetContourNormals2D.m
+- GVFOptimizeImageForces2D.m
+- ImageDerivatives2D.m
+- InterpolateContourPoints2D.m
+- MakeContourClockwise2D.m
+- SeperateKernel.m
+- Snake2D.m
+- SnakeInternalForceMatrix2D.m
+- SnakeMoveIteration2D.m
+- SnakeNorm.m
+- snakes.m
+
+SvmFunctions (2 Files)
+- svmEvaluate.m
+- svmTrain.m
+
+
+Databases Required:
+Mandatory
+- CMU-PIE customized
+- Ear Positive(Ear Pos)
+- Ear Negative(Ear Neg)
+Optional
+- SBR output database (Snakes_Pie2)
