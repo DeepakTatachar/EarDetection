@@ -1,14 +1,14 @@
-## Title: Ear detection using active contour model
+## Ear detection using active contour model
 
-# Please cite this paper if you use this code https://ieeexplore.ieee.org/document/7603043/ (DOI : 10.1109/ICETETS.2016.7603043)
-# Deepak R, Abhishek Vasant Nayak, Manikantan K, "Ear detection using active contour model", ICETETS, pp. 1-7, 2016.
+**Please cite this paper if you use this code https://ieeexplore.ieee.org/document/7603043/ (DOI : 10.1109/ICETETS.2016.7603043)**\
+**Deepak R, Abhishek Vasant Nayak, Manikantan K, "Ear detection using active contour model", ICETETS, pp. 1-7, 2016.**
 
-# Authors: Deepak R, Abhishek Vasant Nayak, Manikantan K, 2015-16.
+**Authors: Deepak R, Abhishek Vasant Nayak, Manikantan K, 2015-16.**
 
 Purpose: The purpose of the above code is to demonstrate ear detection using Snakes (Active Contour Modelling).
 
 This code demonstrates a specific result obtained when CMU-PIE face database was customized and the proposed algorithm was applied.
-The result expected is the as tabulated in Table 1, Entry 2, ìOnly SVM SLRî on page 4 of the paper.
+The result expected is the as tabulated in Table 1, Entry 2, ‚ÄúOnly SVM SLR‚Äù on page 4 of the paper.
 
 The code was developed using Matlab 2014a. 
 The code has two user inputs. 
