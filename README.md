@@ -1,7 +1,10 @@
 ## Ear detection using active contour model
 
-**Please cite this paper if you use this code https://ieeexplore.ieee.org/document/7603043/ (DOI : 10.1109/ICETETS.2016.7603043)**\
+**Please cite this paper if you use this code**
+
 **Deepak R, Abhishek Vasant Nayak, Manikantan K, "Ear detection using active contour model", ICETETS, pp. 1-7, 2016.**
+https://ieeexplore.ieee.org/document/7603043/ \
+(DOI : 10.1109/ICETETS.2016.7603043)
 
 **Authors: Deepak R, Abhishek Vasant Nayak, Manikantan K, 2015-16.**
 
